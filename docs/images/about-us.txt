@@ -1,0 +1,6 @@
+PAGE IMAGE MAP
+
+- assets/header/b-1.png — logo
+- assets/about/founder.png — founder
+- assets/about/a1.png, a2.jpeg, a3.png, a4.jpg, a5.png, a6.png — academy gallery
+- assets/about/l1.webp, l2.png, l3.webp, l4.png, l5.png — tutor/university logos

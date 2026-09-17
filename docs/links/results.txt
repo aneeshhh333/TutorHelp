@@ -1,0 +1,5 @@
+PAGE LINK MAP
+
+- Header/footer navigation → primary pages
+- Home parent-results link → results.html#parent-results
+- Book a Free Assessment → contact.html

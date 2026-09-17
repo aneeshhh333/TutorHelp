@@ -1,0 +1,4 @@
+PAGE IMAGE MAP
+
+- assets/header/b-1.png — logo
+- assets/services/s.png — hero

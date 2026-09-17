@@ -1,0 +1,3 @@
+PAGE IMAGE MAP
+
+- assets/header/b-1.png — logo; no page-specific image supplied

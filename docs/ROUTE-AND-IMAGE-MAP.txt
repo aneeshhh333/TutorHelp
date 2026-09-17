@@ -1,0 +1,19 @@
+TutorHelp website route and image reference
+
+Primary pages:
+- index.html — Home
+- about-us.html — About Us
+- students-we-serve.html — Students We Serve
+- k8-tutoring.html — Grades 2–8 Tutoring
+- high-school-math.html — High School Math
+- high-school-science.html — High School Science
+- test-prep.html — Test Preparation
+- services.html — Services
+- virtual-tutoring.html — Virtual Tutoring
+- results.html — Results
+- pricing.html — Pricing
+- contact.html — Book a Free Assessment
+
+All section IDs are used for direct links, especially services.html#one-to-one, #experienced-tutors, #homework-help, #curriculum-alignment, #regular-tests, #monthly-progress-report, and #flexible-scheduling.
+
+Each page has a matching file in docs/links/ and docs/images/.
