@@ -7,7 +7,6 @@ Primary pages:
 - k8-tutoring.html — Grades 2–8 Tutoring
 - high-school-math.html — High School Math
 - high-school-science.html — High School Science
-- test-prep.html — Test Preparation
 - services.html — Services
 - virtual-tutoring.html — Virtual Tutoring
 - results.html — Results

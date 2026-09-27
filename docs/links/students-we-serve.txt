@@ -3,5 +3,4 @@ PAGE LINK MAP
 - Explore Grades 2–8 → k8-tutoring.html
 - Explore High School Math → high-school-math.html
 - Explore High School Science → high-school-science.html
-- Explore Test Prep → test-prep.html
 - Footer → services.html, pricing.html, contact.html

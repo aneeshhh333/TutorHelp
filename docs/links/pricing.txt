@@ -2,7 +2,6 @@ PAGE LINK MAP
 
 - K–8 page section → pricing.html#k8-pricing
 - High school page section → pricing.html#highschool-pricing
-- Test prep page section → pricing.html#testprep-pricing
 - Payment plans → pricing.html#payment-plans
 - 1:1 sessions → services.html#one-to-one
 - Experienced tutor → services.html#experienced-tutors
