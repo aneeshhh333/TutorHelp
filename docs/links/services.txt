@@ -1,5 +1,0 @@
-PAGE LINK MAP
-
-- Virtual tutoring link → virtual-tutoring.html
-- Regular Tests pricing link → pricing.html#payment-plans
-- What Other Parents Say → results.html#parent-results

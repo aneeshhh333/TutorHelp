@@ -1,4 +1,0 @@
-PAGE LINK MAP
-
-- Form CTA → submits locally in demo mode; replace with backend/email endpoint
-- Header/footer → primary pages

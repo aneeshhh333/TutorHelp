@@ -1,5 +1,0 @@
-PAGE LINK MAP
-
-- Header navigation → all primary pages
-- Footer → students-we-serve.html, services.html, virtual-tutoring.html, results.html, pricing.html
-- Contact CTA → contact.html

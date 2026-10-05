@@ -1,4 +1,0 @@
-PAGE LINK MAP
-
-- Header/footer navigation → primary pages
-- Book a Free Assessment → contact.html

@@ -1,4 +1,0 @@
-PAGE LINK MAP
-
-- Every View Our Services → services.html
-- Every View Pricing → pricing.html#k8-pricing
