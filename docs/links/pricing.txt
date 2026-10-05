@@ -1,0 +1,12 @@
+PAGE LINK MAP
+
+- K–8 page section → pricing.html#k8-pricing
+- High school page section → pricing.html#highschool-pricing
+- Payment plans → pricing.html#payment-plans
+- 1:1 sessions → services.html#one-to-one
+- Experienced tutor → services.html#experienced-tutors
+- Homework support → services.html#homework-help
+- Bi-weekly/monthly tests → services.html#regular-tests
+- Monthly progress report → services.html#monthly-progress-report
+- Flexible scheduling → services.html#flexible-scheduling
+- Contact Us About Pricing → contact.html
