@@ -1,4 +1,4 @@
 PAGE IMAGE MAP
 
-- assets/header/b-1.png — logo
+- assets/header/brightpath-logo.jpg — logo
 - assets/services/s.png — hero

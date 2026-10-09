@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://tutorhelpp.vercel.app/index.html</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/about-us.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/students-we-serve.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/k8-tutoring.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/high-school-math.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/high-school-science.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/virtual-tutoring.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/results.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/pricing.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/testimonials.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/los-angeles-tutoring.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/math-tutor-los-angeles.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/private-tutor-los-angeles.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://tutorhelpp.vercel.app/best-tutoring-center-los-angeles.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/about-us.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/high-school-math.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/high-school-science.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/index.html</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/k8-tutoring.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/pricing.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/results.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/students-we-serve.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/testimonials.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://brightpathlearning.vercel.app/virtual-tutoring.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>

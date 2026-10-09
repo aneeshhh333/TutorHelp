@@ -1,4 +1,4 @@
-TutorHelp website route and image reference
+BrightPath Learning website route and image reference
 
 Primary pages:
 - index.html — Home

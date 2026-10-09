@@ -1,5 +1,5 @@
 PAGE IMAGE MAP
 
-- assets/header/b-1.png — logo
+- assets/header/brightpath-logo.jpg — logo
 - assets/home/h1.webp — hero
 - No other supplied images used

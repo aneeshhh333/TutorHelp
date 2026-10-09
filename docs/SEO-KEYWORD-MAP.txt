@@ -1,21 +1,21 @@
-TutorHelp SEO landing-page map
+BrightPath Learning SEO landing-page map
 
 los-angeles-tutoring.html
-- tutoring in Los Angeles CA
-- tutoring in Los Angeles
-- tutors in Los Angeles
-- tutor in Los Angeles
-- tutors in Los Angeles CA
+- tutoring in Klamath Falls CA
+- tutoring in Klamath Falls
+- tutors in Klamath Falls
+- tutor in Klamath Falls
+- tutors in Klamath Falls CA
 
 math-tutor-los-angeles.html
-- math tutor in Los Angeles
-- affordable math tutors in Los Angeles
-- I need a math tutor in Los Angeles CA
+- math tutor in Klamath Falls
+- affordable math tutors in Klamath Falls
+- I need a math tutor in Klamath Falls CA
 
 private-tutor-los-angeles.html
-- private tutor in Los Angeles
+- private tutor in Klamath Falls
 
 best-tutoring-center-los-angeles.html
-- best tutoring center in Los Angeles
+- best tutoring center in Klamath Falls
 
-Strategy: New SEO pages link into existing TutorHelp pages. Existing pages are not modified and do not link back to the new SEO pages.
+Strategy: New SEO pages link into existing BrightPath Learning pages. Existing pages are not modified and do not link back to the new SEO pages.
